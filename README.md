@@ -7,5 +7,6 @@ Encabezado central con el título principal de la factura. Utiliza fondo azul y 
 
 ![imagen](https://github.com/user-attachments/assets/a0e5181d-d407-42ac-9118-b409bfc273de)
 
+2. &lt;div class="contenedor-factura"&gt;
 
 
