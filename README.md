@@ -60,6 +60,8 @@ Forma de pago y observaciones, junto con un mensaje de agradecimiento al cliente
 
     .pie: Mensaje final con fondo suave y centrado.
 
+# **FIN**
+
 
 
 
