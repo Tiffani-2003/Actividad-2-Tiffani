@@ -21,3 +21,5 @@ Incluye nombre, dirección, RUC, teléfono y correo de la empresa.
 ✅ Cliente (.tabla-cliente)
 
 Datos personales del cliente como nombre, cédula/RUC, dirección, teléfono y email.
+
+![imagen](https://github.com/user-attachments/assets/05b307be-120c-434d-b2b4-5545db963555)
