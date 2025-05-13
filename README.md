@@ -46,6 +46,19 @@ Forma de pago y observaciones, junto con un mensaje de agradecimiento al cliente
 
     Capciones y tablas: Cada tabla tiene un encabezado con íconos y colores distintivos.
 
+## Estilos Especiales
+
+    .tabla-empresa: Borde azul.
+
+    .tabla-cliente: Borde verde.
+
+    .tabla-productos: Borde naranja.
+
+    .tabla-adicional: Borde morado.
+
+    .total-label y .total-monto: Celdas destacadas para el total.
+
+    .pie: Mensaje final con fondo suave y centrado.
 
 
 
