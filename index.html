@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Factura Comercial</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header>
+        <h1>🧾 FACTURA COMERCIAL</h1>
+    </header>
+
+    <!-- Contenedor general -->
+    <div class="contenedor-factura">
+
+        <!-- Contenedor Empresa -->
+        <div class="contenedor-seccion empresa">
+            <section class="seccion">
+                <table class="tabla tabla-empresa">
+                    <caption>🏢 Datos de la Empresa</caption>
+                    <tr><td><strong>Empresa:</strong></td><td>NovaTech Global Cía. Ltda.</td></tr>
+                    <tr><td><strong>Dirección:</strong></td><td>Av. Simón Bolívar y Av. Ilaló , Quito</td></tr>
+                    <tr><td><strong>RUC:</strong></td><td>1798564321001</td></tr>
+                    <tr><td><strong>Teléfono:</strong></td><td>(02) 556-3344</td></tr>
+                    <tr><td><strong>Correo:</strong></td><td>ventas@novatechglobal.com</td></tr>
+                </table>
+            </section>
+        </div>
+
+        <!-- Contenedor Cliente -->
+        <div class="contenedor-seccion cliente">
+            <section class="seccion">
+                <table class="tabla tabla-cliente">
+                    <caption> Datos del Cliente</caption>
+                    <tr><td><strong>Nombre:</strong></td><td>Andrés Paredes Rivas</td></tr>
+                    <tr><td><strong>Cédula/RUC:</strong></td><td>0923456712</td></tr>
+                    <tr><td><strong>Dirección:</strong></td><td>Av. de las Américas, Cuenca</td></tr>
+                    <tr><td><strong>Teléfono:</strong></td><td>0991122334</td></tr>
+                    <tr><td><strong>Email:</strong></td><td>andres.paredes@correo.com</td></tr>
+                </table>
+            </section>
+        </div>
+
+        <!-- Contenedor Productos -->
+        <div class="contenedor-seccion productos">
+            <section class="seccion">
+                <table class="tabla tabla-productos">
+                    <caption>🛍️ Listado de Productos</caption>
+                    <thead>
+                        <tr>
+                            <th>Código</th>
+                            <th>Descripción</th>
+                            <th>Cantidad</th>
+                            <th>Precio Unitario</th>
+                            <th>Subtotal</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>NX200</td>
+                            <td>Teclado Mecánico RGB</td>
+                            <td>1</td>
+                            <td>$55.00</td>
+                            <td>$55.00</td>
+                        </tr>
+                        <tr>
+                            <td>MG145</td>
+                            <td>Mouse Inalámbrico Gamer</td>
+                            <td>2</td>
+                            <td>$28.50</td>
+                            <td>$57.00</td>
+                        </tr>
+                        <tr>
+                            <td>HD510</td>
+                            <td>Auriculares Bluetooth</td>
+                            <td>1</td>
+                            <td>$36.90</td>
+                            <td>$36.90</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="4" class="total-label">TOTAL</td>
+                            <td class="total-monto">$148.90</td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </section>
+        </div>
+
+        <!-- Contenedor Información Adicional -->
+        <div class="contenedor-seccion adicional">
+            <section class="seccion">
+                <table class="tabla tabla-adicional">
+                    <caption>📌 Información Adicional</caption>
+                    <tr><td><strong>Forma de Pago:</strong></td><td>Tarjeta de Crédito</td></tr>
+                    <tr><td><strong>Observaciones:</strong></td><td>Entrega en 48 horas hábiles</td></tr>
+                    <tr><td colspan="2" class="pie">
+                        🎉 ¡Gracias por elegir NovaTech Global!<br>
+                    </td></tr>
+                </table>
+            </section>
+        </div>
+
+    </div>
+
+</body>
+</html>
