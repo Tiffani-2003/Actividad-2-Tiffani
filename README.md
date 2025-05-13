@@ -11,3 +11,5 @@ Encabezado central con el título principal de la factura. Utiliza fondo azul y 
 
 Contenedor general que agrupa todas las secciones de la factura.
 ## Secciones Internas:
+
+✅ Empresa (.tabla-empresa)
