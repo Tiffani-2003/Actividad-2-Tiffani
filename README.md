@@ -36,7 +36,15 @@ Forma de pago y observaciones, junto con un mensaje de agradecimiento al cliente
 
 ![imagen](https://github.com/user-attachments/assets/29e8bf8d-3473-473b-9681-5f7fa8f10f5e)
 
+## 🎨 Diseño y Estilos CSS
 
+    Tipografía: 'Segoe UI' para una lectura clara y moderna.
+
+    Colores: Paleta con tonos azules, verdes y naranjas para diferenciar secciones.
+
+    Sombras y bordes: Se aplica box-shadow y bordes laterales de color para darle estilo a cada tabla.
+
+    Capciones y tablas: Cada tabla tiene un encabezado con íconos y colores distintivos.
 
 
 
