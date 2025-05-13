@@ -9,4 +9,5 @@ Encabezado central con el título principal de la factura. Utiliza fondo azul y 
 
 2. &lt;div class="contenedor-factura"&gt;
 
-
+Contenedor general que agrupa todas las secciones de la factura.
+## Secciones Internas:
