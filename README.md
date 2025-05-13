@@ -1,6 +1,6 @@
 ## Descripción del Contenido
 
-&lt;header&gt;
+1. &lt;header&gt;
 
 
 Encabezado central con el título principal de la factura. Utiliza fondo azul y tipografía blanca para destacarse.
