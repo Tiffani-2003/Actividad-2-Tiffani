@@ -13,5 +13,6 @@ Contenedor general que agrupa todas las secciones de la factura.
 ## Secciones Internas:
 
 ✅ Empresa (.tabla-empresa)
+
 Incluye nombre, dirección, RUC, teléfono y correo de la empresa.
 
