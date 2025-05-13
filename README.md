@@ -17,3 +17,7 @@ Contenedor general que agrupa todas las secciones de la factura.
 Incluye nombre, dirección, RUC, teléfono y correo de la empresa.
 
 ![imagen](https://github.com/user-attachments/assets/03702756-5c85-4a78-9022-bd1f0d44339d)
+
+✅ Cliente (.tabla-cliente)
+
+Datos personales del cliente como nombre, cédula/RUC, dirección, teléfono y email.
