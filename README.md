@@ -30,3 +30,7 @@ Tabla con productos adquiridos, que muestra código, descripción, cantidad, pre
 
 ![imagen](https://github.com/user-attachments/assets/12b5ceb7-7f47-4e57-a077-b98d3d04039f)
 
+✅ Información Adicional (.tabla-adicional)
+
+Forma de pago y observaciones, junto con un mensaje de agradecimiento al cliente.
+
