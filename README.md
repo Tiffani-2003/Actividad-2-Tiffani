@@ -23,3 +23,7 @@ Incluye nombre, dirección, RUC, teléfono y correo de la empresa.
 Datos personales del cliente como nombre, cédula/RUC, dirección, teléfono y email.
 
 ![imagen](https://github.com/user-attachments/assets/05b307be-120c-434d-b2b4-5545db963555)
+
+✅ Productos (.tabla-productos)
+
+Tabla con productos adquiridos, que muestra código, descripción, cantidad, precio unitario y subtotal. También incluye un total final calculado.
