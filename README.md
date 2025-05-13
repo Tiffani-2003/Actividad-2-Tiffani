@@ -34,3 +34,15 @@ Tabla con productos adquiridos, que muestra código, descripción, cantidad, pre
 
 Forma de pago y observaciones, junto con un mensaje de agradecimiento al cliente.
 
+![imagen](https://github.com/user-attachments/assets/29e8bf8d-3473-473b-9681-5f7fa8f10f5e)
+
+
+
+
+
+
+
+
+
+
+
