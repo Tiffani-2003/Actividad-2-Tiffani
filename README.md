@@ -27,3 +27,6 @@ Datos personales del cliente como nombre, cédula/RUC, dirección, teléfono y e
 ✅ Productos (.tabla-productos)
 
 Tabla con productos adquiridos, que muestra código, descripción, cantidad, precio unitario y subtotal. También incluye un total final calculado.
+
+![imagen](https://github.com/user-attachments/assets/12b5ceb7-7f47-4e57-a077-b98d3d04039f)
+
